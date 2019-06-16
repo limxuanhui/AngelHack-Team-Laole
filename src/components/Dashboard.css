@@ -1,0 +1,20 @@
+.blocks {
+    margin: 10px;
+}
+
+.name {
+    margin: 5%;
+    margin-top: 0;
+}
+
+.name.ttb {
+    background-color: #3ee26f;
+}
+
+.name.cjm {
+    background-color: #fdc202;
+}
+
+.name.ash, .name.tmh {
+    background-color: #ff4b4b;
+}
